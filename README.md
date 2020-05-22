@@ -8,7 +8,7 @@ https://ipython.readthedocs.io/en/stable/config/custommagics.html#defining-custo
 
 ## Installation
 
-`pip instal example_magic
+`pip instal example_magic`
 
 
 ## Usage
